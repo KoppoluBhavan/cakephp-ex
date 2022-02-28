@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+.p1{background-color: pink;
+color: blue;
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+font-size: 12pt;}
+
+.p2{background-color: green;
+color: white;
+font-family: "fantasy";
+font-size: 14pt;}
